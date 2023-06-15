@@ -1,4 +1,4 @@
-import { playlistStore } from "../models/playlist.store.js";
+import { playlistStore } from "../models/playlist-store.js";
 
 export const playlistController = { 
     async index(request, response) {
