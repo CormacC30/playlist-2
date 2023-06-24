@@ -1,0 +1,19 @@
+{
+  "file": "./models/tracks.json",
+  "tracks": [
+    {
+      "title": "Pair of Brown Eyes",
+      "artist": "The Pogues",
+      "duration": 4,
+      "_id": "20604d8a-7253-4bef-919c-c3b4d5674ad6",
+      "playlistid": "caa2db0c-4831-4180-a223-f57e0c6642a2"
+    },
+    {
+      "title": "Ordinary man",
+      "artist": "Christy Moore",
+      "duration": 6,
+      "_id": "3287834d-bfe0-419c-abed-8d8bc8c8d958",
+      "playlistid": "e7e78405-bdcd-44f3-8648-2804c588f427"
+    }
+  ]
+}
