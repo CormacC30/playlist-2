@@ -1,0 +1,34 @@
+{
+  "file": "./models/users.json",
+  "users": [
+    {
+      "firstName": "Marge",
+      "lastName": "Simpson",
+      "email": "marge@simpson.com",
+      "password": "secret",
+      "_id": "8e17a702-7b9b-4cf4-b1b1-be5b3fc1d455"
+    },
+    {
+      "_id": "d3944d17-c5eb-4724-8225-1c93acc2a066"
+    },
+    {
+      "firstName": "Homer",
+      "lastName": "Simpson",
+      "email": "homer@simpson.com",
+      "password": "secret",
+      "_id": "1a7f12e6-f6f2-41c6-89d0-c5168bfe7831"
+    },
+    {
+      "_id": "e9b06ba7-efd4-4bd4-9d6d-aba43dc42d93"
+    },
+    {
+      "_id": "5d7208b3-8cc1-48b6-a36f-5ba8314fa339"
+    },
+    {
+      "_id": "c1957491-414a-41c8-aaac-285dee080d13"
+    },
+    {
+      "_id": "ec0e68f1-b097-4b40-9481-42620e360341"
+    }
+  ]
+}
