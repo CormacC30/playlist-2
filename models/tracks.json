@@ -53,9 +53,23 @@
     {
       "title": "Mouth Music",
       "artist": "Dolores Keane, John Faulkner",
-      "duration": 3.5,
+      "duration": 4.5,
       "_id": "d0b45fa5-5ace-4f3c-ae4d-4654e0497928",
       "playlistid": "596c982d-7530-4242-8188-3fdf5e275c03"
+    },
+    {
+      "title": "test track",
+      "artist": "test artist",
+      "duration": 1,
+      "_id": "359f55ad-62bb-4b89-bd29-cbd18862abbf",
+      "playlistid": "f652fa1b-0990-4f60-8055-ae666e8b2b2e"
+    },
+    {
+      "title": "test track 2",
+      "artist": "test artist 2",
+      "duration": 0.5,
+      "_id": "f093d690-7c62-4bcf-898d-916eb0ee9d7e",
+      "playlistid": "f652fa1b-0990-4f60-8055-ae666e8b2b2e"
     }
   ]
 }
